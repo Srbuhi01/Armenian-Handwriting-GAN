@@ -53,7 +53,7 @@ To demonstrate the practical difference, here are the raw generated samples from
 ## 📁 Repository Structure
 
 ```text
-📦 AC_WGAN-17_03_26
+📦 Armenian-Handwriting-GAN
  ┣ 📂 images/                     # Output samples, graphs, and final results
  ┃ ┣ 📜 acgan_sample.png
  ┃ ┣ 📜 clean_comparison_100_epochs.png
