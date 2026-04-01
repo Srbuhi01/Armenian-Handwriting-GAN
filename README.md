@@ -3,7 +3,7 @@
 * [Narek Stepanyan](https://github.com/Narek889)
 * [Srbuhi Pupuyan](https://github.com/Srbuhi01)
 
-**Institution:** [National Polytechnic University of Armenia].(https://polytech.am/en/home/) 
+**Institution:** [National Polytechnic University of Armenia](https://polytech.am/en/home/)
 
 **Year:** 2026
 
