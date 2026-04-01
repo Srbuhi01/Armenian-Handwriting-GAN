@@ -1,4 +1,12 @@
 # Armenian Handwritten Text Synthesis via AC-WGAN-GP
+**Authors:**
+* [Narek Stepanyan](https://github.com/Narek889)
+* [Srbuhi Pupuyan](https://github.com/Srbuhi01)
+
+**Institution:** [National Polytechnic University of Armenia](https://polytech.am/en/home/)
+
+**Year:** 2026
+
 **An Automated End-to-End System for Synthetic Handwriting Generation and Data Augmentation**
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-PyTorch-ee4c2c?style=for-the-badge&logo=pytorch)
@@ -6,7 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-<!-- Provide a relative path to your best result image here -->
 ![Demo Result](images/wow_result.jpg)
 
 ## 📌 Project Overview
