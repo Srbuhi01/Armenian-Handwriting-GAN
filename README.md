@@ -72,9 +72,8 @@ To demonstrate the practical difference, here are the raw generated samples from
  ┃ ┗ 📂 .gradio
  ┃   ┗ 📜 model_results.ipynb     # Jupyter notebook with detailed visualizations
  ┗ 📂 src/                        # Core source code
-   ┣ 📜 0.2_new_app.py            # Gradio/Streamlit UI Application
+   ┣ 📜 app_v6_5.py               # Gradio/Streamlit UI Application
    ┣ 📜 apply_background.py       # Basic background overlay script
-   ┣ 📜 auto_color_overlay.py     # Smart overlay with dynamic luminance analysis
    ┣ 📜 baseline_cvae.py          # cVAE baseline model training script
    ┣ 📜 baseline_ddpm.py          # DDPM baseline model training script
    ┣ 📜 cvae_plot_graphs.py       # Matplotlib script for VAE loss plotting
